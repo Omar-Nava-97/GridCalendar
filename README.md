@@ -15,7 +15,7 @@ Se utilizaron conceptos como:
 <h1 align="center">Visualización</h1>
 
 <p align="center">
-  <img align="center" alt="Coding" src="https://i.postimg.cc/B6yb4JtJ/Simulator-Screen-Shot-i-Phone-11-2022-08-07-at-17-40-36-iphone12black-portrait.png"> 
+  <img align="center" alt="Coding" src="https://i.postimg.cc/B6XZYt4J/Simulator-Screen-Shot-i-Phone-11-2022-08-07-at-18-34-31-iphone12black-portrait.png"> 
 </p>
 
 
